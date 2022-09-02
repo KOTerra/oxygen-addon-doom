@@ -122,7 +122,8 @@ player_t        players[MAXPLAYERS];
 
 bool         turbodetected[MAXPLAYERS];
  
-int             consoleplayer;          // player taking events and displaying 
+int             
+player;          // player taking events and displaying 
 int             displayplayer;          // view being displayed 
 int             levelstarttic;          // gametic at level start 
 int             totalkills, totalitems, totalsecret;    // for intermission 

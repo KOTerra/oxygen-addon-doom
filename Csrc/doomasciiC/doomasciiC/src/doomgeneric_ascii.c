@@ -171,7 +171,12 @@ void DG_DrawFrame()
 	fputs("\033[;H\033[1m", stdout);
 
 	/* flush output buffer */
-	CALL_STDOUT(fputs(output_buffer, stdout), "DG_DrawFrame: fputs error %d");
+	FILE* fin;
+	fin = fopen("C:\\Users\\Syncro Developer\\Desktop\\out.txt","a");
+	fprintf(fin, output_buffer);
+	fprintf(fin, "\n\n\n\n\n\n\n\n\n\n");
+	CALL_STDOUT(fputs(output_buffer, fin), "DG_DrawFrame: fputs error %d");
+	fclose(fin);
 
 	/* clear output buffer */
 	memset(output_buffer, '\0', buf - output_buffer + 1u);

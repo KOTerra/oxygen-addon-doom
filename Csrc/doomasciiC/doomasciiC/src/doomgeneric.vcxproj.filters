@@ -305,7 +305,8 @@
     <ClInclude Include="d_think.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="d_ticcmd.h">
+    <ClInclude Include="d_tic
+			   .h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="deh_main.h">

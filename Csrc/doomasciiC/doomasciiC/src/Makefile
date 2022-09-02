@@ -13,7 +13,8 @@ endif
 
 # subdirectory for objects
 OBJDIR=build
-BINDIR=../doom_ascii
+BINDIR=../doom_
+
 
 ifeq ($(MAKECMDGOALS),windows)
 CC=i686-w64-mingw32-gcc-win32

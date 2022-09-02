@@ -161,7 +161,7 @@ extern  int             testcontrols_mousespeed;
 extern  int	viewangleoffset;
 
 // Player taking events, and displaying.
-extern  int	consoleplayer;	
+extern  int	consoleplayer;
 extern  int	displayplayer;
 
 

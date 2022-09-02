@@ -1,4 +1,5 @@
-﻿  doomgeneric_ascii.c
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
-C:\REPOSITORIES\Syncro\doom-addon\oxygen-addon-doom\Csrc\doomasciiC\doomasciiC\src\doomgeneric_ascii.c(65,27): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+﻿cl : command line warning D9014: invalid value '2001' for '/wd'; assuming '5999'
+cl : command line warning D9014: invalid value '1120' for '/wd'; assuming '5999'
+  d_main.c
+C:\REPOSITORIES\Syncro\doom-addon\oxygen-addon-doom\Csrc\doomasciiC\doomasciiC\src\d_main.c(662,33): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
   doomasciiC.vcxproj -> C:\REPOSITORIES\Syncro\doom-addon\oxygen-addon-doom\Csrc\doomasciiC\x64\Debug\doomasciiC.exe

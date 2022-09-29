@@ -17,5 +17,5 @@
 	<!--The sample view which will present messages from the sample plugin.-->
 	<view id="DOOM" initialSide="WEST" initialRow="0" />
 	<!--The sample toolbar which will present messages from the sample plugin.-->
-	<toolbar id="DOOM" initialSide="NORTH" initialRow="1" />
+	<toolbar id="DOOMToolbar" initialSide="NORTH" initialRow="1" />
 </plugin>

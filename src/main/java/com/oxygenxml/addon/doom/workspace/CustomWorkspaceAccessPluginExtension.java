@@ -20,6 +20,10 @@ import ro.sync.exml.workspace.api.standalone.StandalonePluginWorkspace;
 public class CustomWorkspaceAccessPluginExtension implements WorkspaceAccessPluginExtension {
 
   public void applicationStarted(final StandalonePluginWorkspace pluginWorkspaceAccess) {
+    // makeCef(pluginWorkspaceAccess);
+  }
+
+  private void makeCef(final StandalonePluginWorkspace pluginWorkspaceAccess) {
     pluginWorkspaceAccess.addViewComponentCustomizer(viewInfo -> {
 
       JPanel panel = new JPanel();
@@ -37,8 +41,6 @@ public class CustomWorkspaceAccessPluginExtension implements WorkspaceAccessPlug
       panel.add(browser.getUIComponent(), BorderLayout.CENTER);
       panel.add(address, BorderLayout.SOUTH);
       panel.setVisible(true);
-      viewInfo.setComponent(panel);
-
       viewInfo.setComponent(panel);
 
     });

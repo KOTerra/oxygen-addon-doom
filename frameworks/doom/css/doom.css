@@ -1,0 +1,10 @@
+* {
+    display: block;
+    padding: 2px;
+}
+
+
+doom:before {
+    content: "DOOM: ";
+    color: gray;
+}

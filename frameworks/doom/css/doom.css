@@ -10,7 +10,7 @@ doom:before {
 }
 doom {
     content: oxy_browser(
-href, 'file:///C:/REPOSITORIES/Syncro/doom-addon/oxygen-addon-doom/frameworks/doom/javascript/DOOM/index.html', 
+href, 'file:///C:/REPOSITORIES/Syncro/doom-addon/oxygen-addon-doom/frameworks/doom/jsdos/index.html', 
 width, 1280px, 
 height, 720px
 

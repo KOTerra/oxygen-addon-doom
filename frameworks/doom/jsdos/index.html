@@ -1,20 +1,48 @@
 <!DOCTYPE html>
-<html lang="en" >
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>CodePen - Js DOOM running on Oxygen</title>
-  <link rel="stylesheet" href="./style.css">
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOOM Game</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .doom-button {
+            padding: 10px;
+            margin: 10px;
+            font-size: 16px;
+        }
+    </style>
 </head>
 <body>
-<!-- partial:index.partial.html -->
-<div id="dosbox"></div>
-    <br/>
-    <button onclick="dosbox.requestFullScreen();">Make fullscreen</button><br>
-<p>Click on Screen, Press Enter to start<br>
-  Arrows to move, Space to use, Ctrl to Fire<br><a href="http://doom.wikia.com/wiki/Controls" target=_b>More controls</a></p>
-<!-- partial -->
-  <script src='https://js-dos.com/cdn/js-dos-api.js'></script><script  src="./script.js"></script>
+    <h1>DOOM Game</h1>
+    <div>
+        <button id="openGameButton" class="doom-button">Open Game</button>
+        <button id="endGameButton" class="doom-button" disabled>Close Game</button>
+    </div>
+    <div>
+        <iframe id="gameIFrame" src=""></iframe>
+    </div>
 
+    <script>
+        const GAME_URL = "https://dos.zone/player/?bundleUrl=https%3A%2F%2Fcdn.dos.zone%2Fcustom%2Fdos%2Fdoom.jsdos?anonymous=1"; // Replace with the actual DOOM game URL
+
+        const openGameButton = document.getElementById("openGameButton");
+        const endGameButton = document.getElementById("endGameButton");
+        const gameIFrame = document.getElementById("gameIFrame");
+
+        openGameButton.addEventListener("click", function() {
+            openGameButton.disabled = true;
+            endGameButton.disabled = false;
+            gameIFrame.src = GAME_URL;
+        });
+
+        endGameButton.addEventListener("click", function() {
+            openGameButton.disabled = false;
+            endGameButton.disabled = true;
+            gameIFrame.src = "";
+        });
+    </script>
 </body>
 </html>

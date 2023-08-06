@@ -1,0 +1,184 @@
+[0804/182433.796:INFO:CONSOLE(16)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://dos.zone/resources/js-dos/js-dos.js (16)
+[0804/182433.798:INFO:CONSOLE(16)] "The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (https://bit.ly/audio-worklet)", source: https://dos.zone/resources/js-dos/js-dos.js (16)
+[0804/182623.590:INFO:CONSOLE(16)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://dos.zone/resources/js-dos/js-dos.js (16)
+[0804/182623.592:INFO:CONSOLE(16)] "The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (https://bit.ly/audio-worklet)", source: https://dos.zone/resources/js-dos/js-dos.js (16)
+[0804/183130.816:INFO:CONSOLE(16)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://dos.zone/resources/js-dos/js-dos.js (16)
+[0804/183130.817:INFO:CONSOLE(16)] "The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (https://bit.ly/audio-worklet)", source: https://dos.zone/resources/js-dos/js-dos.js (16)
+[0804/183130.876:ERROR:gl_utils.cc(402)] [.WebGL-000044A800382900]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[0804/183130.901:INFO:CONSOLE(0)] "[.WebGL-000044A800382900]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels", source: https://dos.zone/player/?bundleUrl=https%3A%2F%2Fcdn.dos.zone%2Fcustom%2Fdos%2Fdoom.jsdos?anonymous=1 (0)
+[0804/183130.928:ERROR:gl_utils.cc(402)] [.WebGL-000044A800382900]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[0804/183131.045:INFO:CONSOLE(0)] "[.WebGL-000044A800382900]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels", source: https://dos.zone/player/?bundleUrl=https%3A%2F%2Fcdn.dos.zone%2Fcustom%2Fdos%2Fdoom.jsdos?anonymous=1 (0)
+[0804/183131.169:ERROR:gl_utils.cc(402)] [.WebGL-000044A800382900]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[0804/183131.192:INFO:CONSOLE(0)] "[.WebGL-000044A800382900]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels", source: https://dos.zone/player/?bundleUrl=https%3A%2F%2Fcdn.dos.zone%2Fcustom%2Fdos%2Fdoom.jsdos?anonymous=1 (0)
+[0804/183218.784:INFO:CONSOLE(16)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://dos.zone/resources/js-dos/js-dos.js (16)
+[0804/183218.785:INFO:CONSOLE(16)] "The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (https://bit.ly/audio-worklet)", source: https://dos.zone/resources/js-dos/js-dos.js (16)
+[0804/183218.910:ERROR:gl_utils.cc(402)] [.WebGL-000053780163AA00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[0804/183218.961:ERROR:gl_utils.cc(402)] [.WebGL-000053780163AA00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[0804/183218.969:INFO:CONSOLE(0)] "[.WebGL-000053780163AA00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels", source: https://dos.zone/player/?bundleUrl=https%3A%2F%2Fcdn.dos.zone%2Fcustom%2Fdos%2Fdoom.jsdos?anonymous=1 (0)
+[0804/183219.086:INFO:CONSOLE(0)] "[.WebGL-000053780163AA00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels", source: https://dos.zone/player/?bundleUrl=https%3A%2F%2Fcdn.dos.zone%2Fcustom%2Fdos%2Fdoom.jsdos?anonymous=1 (0)
+[0804/183219.229:ERROR:gl_utils.cc(402)] [.WebGL-000053780163AA00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[0804/183219.253:INFO:CONSOLE(0)] "[.WebGL-000053780163AA00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels", source: https://dos.zone/player/?bundleUrl=https%3A%2F%2Fcdn.dos.zone%2Fcustom%2Fdos%2Fdoom.jsdos?anonymous=1 (0)
+[0804/183317.814:INFO:CONSOLE(16)] "The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (https://bit.ly/audio-worklet)", source: https://dos.zone/resources/js-dos/js-dos.js (16)
+[0804/183317.960:INFO:CONSOLE(0)] "Uncaught (in promise) UnknownError: If you see this error we have a bug. Please report this bug to chromium.", source: https://dos.zone/player/?bundleUrl=https%3A%2F%2Fcdn.dos.zone%2Fcustom%2Fdos%2Fdoom.jsdos?anonymous=1 (0)
+[0804/183326.267:INFO:CONSOLE(0)] "Uncaught (in promise) UnknownError: If you see this error we have a bug. Please report this bug to chromium.", source: https://dos.zone/player/?bundleUrl=https%3A%2F%2Fcdn.dos.zone%2Fcustom%2Fdos%2Fdoom.jsdos?anonymous=1 (0)
+[0804/183606.201:INFO:CONSOLE(16)] "The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (https://bit.ly/audio-worklet)", source: https://dos.zone/resources/js-dos/js-dos.js (16)
+[0804/183614.322:INFO:CONSOLE(0)] "Uncaught (in promise) UnknownError: If you see this error we have a bug. Please report this bug to chromium.", source: https://dos.zone/player/?bundleUrl=https%3A%2F%2Fcdn.dos.zone%2Fcustom%2Fdos%2Fdoom.jsdos?anonymous=1 (0)
+[0804/184015.269:WARNING:spdy_session.cc(3484)] Received HEADERS for invalid stream 1
+[0804/184411.427:INFO:CONSOLE(1)] "Getting LocalStorageManager instance", source: https://di.phncdn.com/www-static/js/lib/ph-functions.js?cache=2023080305 (1)
+[0804/184411.701:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[0804/184411.863:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803785 [6,9]
+[0804/184411.864:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803785 [6,9]
+[0804/184411.864:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803785 [6,9]
+[0804/184411.864:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803785 [6,9]
+[0804/184411.928:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[0804/184411.929:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[0804/184411.929:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[0804/184411.929:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[0804/184412.004:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803785 [6,9]
+[0804/184413.271:INFO:CONSOLE(8776)] "ServiceWorker registration successful", source: https://www.pornhub.com/ (8776)
+[0804/184420.767:INFO:CONSOLE(0)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.pornhub.com/ (0)
+[0804/184423.814:INFO:CONSOLE(0)] "The resource https://di.phncdn.com/videos/202306/13/433465271/original/(m=q7T34OYbecuKGgaaaa)(mh=Dtks7ipslHXlLYcY)0.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.pornhub.com/ (0)
+[0804/184423.815:INFO:CONSOLE(0)] "The resource https://di.phncdn.com/videos/202105/12/387924161/original/(m=ecuKGgaaaa)(mh=cacARfOroXFqN8dt)6.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.pornhub.com/ (0)
+[0804/184423.816:INFO:CONSOLE(0)] "The resource https://di.phncdn.com/videos/202306/23/434095901/original/(m=qGS5ZPYbecuKGgaaaa)(mh=9WeCLbvLwkJUkE-r)0.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.pornhub.com/ (0)
+[0804/184423.817:INFO:CONSOLE(0)] "The resource https://di.phncdn.com/videos/202305/18/431814451/original/(m=ecuKGgaaaa)(mh=blQ51A73xWSJBm08)13.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.pornhub.com/ (0)
+[0804/184442.230:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836499 [5,19]
+[0804/184442.522:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803796 [6,20]
+[0804/184442.526:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836499 [5,19]
+[0804/184442.527:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836499 [5,19]
+[0804/184442.527:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836499 [5,19]
+[0804/184442.527:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836499 [5,19]
+[0804/184442.639:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803796 [6,20]
+[0804/184442.640:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803796 [6,20]
+[0804/184442.640:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803796 [6,20]
+[0804/184442.640:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803796 [6,20]
+[0804/184442.747:INFO:CONSOLE(1)] "Getting LocalStorageManager instance", source: https://di.phncdn.com/www-static/js/lib/ph-functions.js?cache=2023080305 (1)
+[0804/184443.194:INFO:CONSOLE(9235)] "ServiceWorker registration successful", source: https://www.pornhub.com/ (9235)
+[0804/184448.736:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836509 [5,29]
+[0804/184448.823:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836509 [5,29]
+[0804/184448.823:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836509 [5,29]
+[0804/184448.823:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836509 [5,29]
+[0804/184448.824:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836509 [5,29]
+[0804/184449.577:INFO:CONSOLE(1)] "Getting LocalStorageManager instance", source: https://ei.phncdn.com/www-static/js/lib/ph-functions.js?cache=2023080305 (1)
+[0804/184449.977:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836515 [5,35]
+[0804/184449.978:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836515 [5,35]
+[0804/184449.978:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836515 [5,35]
+[0804/184449.978:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836515 [5,35]
+[0804/184450.027:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836518 [5,38]
+[0804/184450.028:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836518 [5,38]
+[0804/184450.028:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836518 [5,38]
+[0804/184450.029:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836518 [5,38]
+[0804/184450.038:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836521 [5,41]
+[0804/184450.039:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836521 [5,41]
+[0804/184450.039:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836521 [5,41]
+[0804/184450.039:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836521 [5,41]
+[0804/184451.926:INFO:CONSOLE(9566)] "ServiceWorker registration successful", source: https://www.pornhub.com/view_video.php?viewkey=ph610429d141494 (9566)
+[0804/184452.858:INFO:CONSOLE(2)] "Hls: browser not supported!", source: https://cdn1d-static-shared.phncdn.com/html5player/videoPlayer/es6player/7.1.1/desktop-player.min.js (2)
+[0804/184452.859:INFO:CONSOLE(2)] "Error initializing adaptive controller:
+", source: https://cdn1d-static-shared.phncdn.com/html5player/videoPlayer/es6player/7.1.1/desktop-player.min.js (2)
+[0804/184452.860:INFO:CONSOLE(2)] "[object Object]", source: https://cdn1d-static-shared.phncdn.com/html5player/videoPlayer/es6player/7.1.1/desktop-player.min.js (2)
+[0804/184452.863:INFO:CONSOLE(2)] "sourceController -hls failed", source: https://cdn1d-static-shared.phncdn.com/html5player/videoPlayer/es6player/7.1.1/desktop-player.min.js (2)
+[0804/184502.470:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738375 [8,7]
+[0804/184502.981:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738375 [8,7]
+[0804/184502.982:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738375 [8,7]
+[0804/184502.982:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738375 [8,7]
+[0804/184502.983:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738375 [8,7]
+[0804/184503.241:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836536 [5,56]
+[0804/184503.377:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836536 [5,56]
+[0804/184503.378:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836536 [5,56]
+[0804/184503.378:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836536 [5,56]
+[0804/184503.379:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836536 [5,56]
+[0804/184503.418:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836539 [5,59]
+[0804/184503.419:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836539 [5,59]
+[0804/184503.419:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836539 [5,59]
+[0804/184503.419:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836539 [5,59]
+[0804/184503.518:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836542 [5,62]
+[0804/184503.519:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836542 [5,62]
+[0804/184503.519:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836542 [5,62]
+[0804/184503.519:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836542 [5,62]
+[0804/184503.780:INFO:CONSOLE(1)] "Getting LocalStorageManager instance", source: https://ei.phncdn.com/www-static/js/lib/ph-functions.js?cache=2023080305 (1)
+[0804/184505.081:INFO:CONSOLE(9721)] "ServiceWorker registration successful", source: https://www.pornhub.com/view_video.php?viewkey=ph62c329e90ccec (9721)
+[0804/184505.182:INFO:CONSOLE(2)] "Hls: browser not supported!", source: https://cdn1d-static-shared.phncdn.com/html5player/videoPlayer/es6player/7.1.1/desktop-player.min.js (2)
+[0804/184505.183:INFO:CONSOLE(2)] "Error initializing adaptive controller:
+", source: https://cdn1d-static-shared.phncdn.com/html5player/videoPlayer/es6player/7.1.1/desktop-player.min.js (2)
+[0804/184505.184:INFO:CONSOLE(2)] "[object Object]", source: https://cdn1d-static-shared.phncdn.com/html5player/videoPlayer/es6player/7.1.1/desktop-player.min.js (2)
+[0804/184505.185:INFO:CONSOLE(2)] "sourceController -hls failed", source: https://cdn1d-static-shared.phncdn.com/html5player/videoPlayer/es6player/7.1.1/desktop-player.min.js (2)
+[0804/184529.545:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0804/184530.189:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836485 [5,5]
+[0804/184530.580:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836485 [5,5]
+[0804/184530.580:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836485 [5,5]
+[0804/184530.581:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836485 [5,5]
+[0804/184530.581:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836485 [5,5]
+[0804/184530.593:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0804/184531.986:INFO:CONSOLE(4439)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/d6ccf302/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js (4439)
+[0804/184533.472:WARNING:obfuscated_file_util.cc(1409)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0804/184537.169:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0804/184543.623:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://googleads.g.doubleclick.net/pagead/viewthroughconversion/962985656/?backend=innertube&cname=1&cver=2_20230803&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20230803%3Bptype%3Df_view%3Btype%3Dview%3Butuid%3DX6OQ3DkcsbYNE6H8uQQuVA%3Butvid%3DiogcY_4xGjo&foc_id=X6OQ3DkcsbYNE6H8uQQuVA&label=followon_view&ptype=f_view&random=1014315201&utuid=X6OQ3DkcsbYNE6H8uQQuVA&cv_attributed=0' (redirected from 'https://www.youtube.com/pagead/viewthroughconversion/962985656/?backend=innertube&cname=1&cver=2_20230803&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20230803%3Bptype%3Df_view%3Btype%3Dview%3Butuid%3DX6OQ3DkcsbYNE6H8uQQuVA%3Butvid%3DiogcY_4xGjo&foc_id=X6OQ3DkcsbYNE6H8uQQuVA&label=followon_view&ptype=f_view&random=1014315201&utuid=X6OQ3DkcsbYNE6H8uQQuVA') from origin 'https://www.youtube.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://www.youtube.com/watch?v=iogcY_4xGjo (0)
+[0804/190825.068:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0804/190826.963:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0804/191503.763:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0804/191504.352:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0804/191505.420:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0804/191505.420:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0804/191505.420:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0804/191505.421:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0804/191505.433:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0804/191506.286:INFO:CONSOLE(4439)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/d6ccf302/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js (4439)
+[0804/191507.954:WARNING:obfuscated_file_util.cc(1409)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0805/185612.521:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0805/185614.068:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0805/185614.599:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0805/185614.600:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0805/185614.600:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0805/185614.601:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0805/185614.611:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0805/185616.042:INFO:CONSOLE(4438)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/79c80fdc/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js (4438)
+[0805/185618.246:WARNING:obfuscated_file_util.cc(1409)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0805/185623.069:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0805/185839.740:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0805/185841.064:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0805/185842.136:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0805/185842.137:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0805/185842.137:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0805/185842.137:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0805/185842.150:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0805/185842.905:INFO:CONSOLE(4438)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/79c80fdc/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js (4438)
+[0805/185844.248:WARNING:obfuscated_file_util.cc(1409)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0805/185847.433:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0805/190122.704:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0805/190123.855:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0805/190154.082:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0805/190438.028:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0805/190438.055:INFO:CONSOLE(1)] "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header.", source: https://www.google.com/?gws_rd=ssl (1)
+[0805/190438.056:INFO:CONSOLE(1)] "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header.", source: https://www.google.com/?gws_rd=ssl (1)
+[0805/190451.815:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0805/191647.096:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0806/010250.284:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0806/211008.356:ERROR:audio_context.cc(52)] Create
+[0806/211008.359:ERROR:audio_context.cc(130)] AudioContext
+[0806/211008.359:ERROR:audio_context.cc(146)] document user activation
+[0806/211008.584:ERROR:audio_context.cc(436)] IsAllowedToStart
+[0806/211008.587:INFO:CONSOLE(16)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://dos.zone/resources/js-dos/js-dos.js (16)
+[0806/211625.085:ERROR:audio_context.cc(52)] Create
+[0806/211625.085:ERROR:audio_context.cc(130)] AudioContext
+[0806/211625.085:ERROR:audio_context.cc(146)] document user activation
+[0806/211625.161:ERROR:audio_context.cc(436)] IsAllowedToStart
+[0806/211625.165:INFO:CONSOLE(16)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://dos.zone/resources/js-dos/js-dos.js (16)
+[0806/211919.801:ERROR:audio_context.cc(52)] Create
+[0806/211919.801:ERROR:audio_context.cc(130)] AudioContext
+[0806/211919.801:ERROR:audio_context.cc(146)] document user activation
+[0806/211919.867:ERROR:audio_context.cc(436)] IsAllowedToStart
+[0806/211919.871:INFO:CONSOLE(16)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://dos.zone/resources/js-dos/js-dos.js (16)
+[0807/004408.612:ERROR:audio_context.cc(52)] Create
+[0807/004408.616:ERROR:audio_context.cc(130)] AudioContext
+[0807/004408.616:ERROR:audio_context.cc(146)] document user activation
+[0807/004408.852:ERROR:audio_context.cc(436)] IsAllowedToStart
+[0807/004408.861:INFO:CONSOLE(16)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://dos.zone/resources/js-dos/js-dos.js (16)
+[0807/005613.120:ERROR:audio_context.cc(52)] Create
+[0807/005613.121:ERROR:audio_context.cc(130)] AudioContext
+[0807/005613.121:ERROR:audio_context.cc(146)] document user activation
+[0807/005613.304:ERROR:audio_context.cc(436)] IsAllowedToStart
+[0807/005613.313:INFO:CONSOLE(16)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://dos.zone/resources/js-dos/js-dos.js (16)

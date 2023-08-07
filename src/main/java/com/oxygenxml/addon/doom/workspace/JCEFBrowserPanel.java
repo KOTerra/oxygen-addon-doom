@@ -49,6 +49,7 @@ public class JCEFBrowserPanel extends JPanel {
 		
 		settings=new CefSettings();
 		settings.persist_session_cookies=true;
+		settings.windowless_rendering_enabled=false;
 		cefApp_.setSettings(settings);
 
 		client_ = cefApp_.createClient();

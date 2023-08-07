@@ -182,3 +182,13 @@ Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://
 [0807/005613.121:ERROR:audio_context.cc(146)] document user activation
 [0807/005613.304:ERROR:audio_context.cc(436)] IsAllowedToStart
 [0807/005613.313:INFO:CONSOLE(16)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://dos.zone/resources/js-dos/js-dos.js (16)
+[0807/145418.337:ERROR:audio_context.cc(52)] Create
+[0807/145418.339:ERROR:audio_context.cc(130)] AudioContext
+[0807/145418.339:ERROR:audio_context.cc(146)] document user activation
+[0807/145418.425:ERROR:audio_context.cc(436)] IsAllowedToStart
+[0807/145418.429:INFO:CONSOLE(16)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://dos.zone/resources/js-dos/js-dos.js (16)
+[0807/145839.520:ERROR:audio_context.cc(52)] Create
+[0807/145839.521:ERROR:audio_context.cc(130)] AudioContext
+[0807/145839.521:ERROR:audio_context.cc(146)] document user activation
+[0807/145839.604:ERROR:audio_context.cc(436)] IsAllowedToStart
+[0807/145839.604:ERROR:audio_context.cc(93)] starting

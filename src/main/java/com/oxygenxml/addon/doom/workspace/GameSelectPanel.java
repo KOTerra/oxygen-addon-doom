@@ -43,6 +43,7 @@ public class GameSelectPanel extends JPanel {
 		button.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
+				jcef.setAddress(GameUrls.MORTAL_COMBAT);
 			}
 		});
 		toolBar.add(button, BorderLayout.EAST);

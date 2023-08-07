@@ -6,6 +6,7 @@ import java.io.IOException;
 
 import javax.swing.JPanel;
 
+import org.apache.http.conn.ssl.BrowserCompatHostnameVerifier;
 import org.cef.CefApp;
 import org.cef.CefClient;
 import org.cef.CefSettings;
@@ -22,8 +23,6 @@ public class JCEFBrowserPanel extends JPanel {
 	 * 
 	 */
 	private static final long serialVersionUID = 2840067805245851269L;
-
-	private final String NATIVES_PATH = "./jcef-bundle";
 
 	private String address;
 
@@ -78,6 +77,7 @@ public class JCEFBrowserPanel extends JPanel {
 
 	public void setAddress(String address) {
 		this.address = address;
+		browser_.loadURL(address);
 	}
 
 }

@@ -192,3 +192,15 @@ Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://
 [0807/145839.521:ERROR:audio_context.cc(146)] document user activation
 [0807/145839.604:ERROR:audio_context.cc(436)] IsAllowedToStart
 [0807/145839.604:ERROR:audio_context.cc(93)] starting
+[0808/172529.947:ERROR:audio_context.cc(52)] Create
+[0808/172529.947:ERROR:audio_context.cc(130)] AudioContext
+[0808/172529.947:ERROR:audio_context.cc(146)] document user activation
+[0808/172530.165:ERROR:audio_context.cc(436)] IsAllowedToStart
+[0808/172530.168:INFO:CONSOLE(16)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://dos.zone/resources/js-dos/js-dos.js (16)
+[0808/172535.616:ERROR:audio_context.cc(52)] Create
+[0808/172535.616:ERROR:audio_context.cc(130)] AudioContext
+[0808/172535.616:ERROR:audio_context.cc(146)] document user activation
+[0808/172535.690:ERROR:audio_context.cc(436)] IsAllowedToStart
+[0808/172535.693:INFO:CONSOLE(16)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://dos.zone/resources/js-dos/js-dos.js (16)
+[0808/172540.908:ERROR:audio_context.cc(206)] resumeContext
+[0808/172540.909:ERROR:audio_context.cc(436)] IsAllowedToStart

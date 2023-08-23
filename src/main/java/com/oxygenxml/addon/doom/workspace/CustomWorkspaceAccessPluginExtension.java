@@ -2,8 +2,6 @@ package com.oxygenxml.addon.doom.workspace;
 
 import java.io.IOException;
 
-import javax.swing.JComponent;
-
 import org.cef.CefApp;
 
 import me.friwi.jcefmaven.CefInitializationException;
@@ -21,7 +19,6 @@ public class CustomWorkspaceAccessPluginExtension implements WorkspaceAccessPlug
 
 	public void applicationStarted(final StandalonePluginWorkspace pluginWorkspaceAccess) {
 
-		//System.loadLibrary("jcef");
 		pluginWorkspaceAccess.addViewComponentCustomizer(new ViewComponentCustomizer() {
 
 			public void customizeView(ViewInfo viewInfo) {
@@ -33,7 +30,6 @@ public class CustomWorkspaceAccessPluginExtension implements WorkspaceAccessPlug
 						viewInfo.setComponent(new GameSelectPanel());
 					} catch (IOException | UnsupportedPlatformException | InterruptedException
 							| CefInitializationException e) {
-						// TODO Auto-generated catch block
 						e.printStackTrace();
 					}
 					viewInfo.setTitle("DOOM");

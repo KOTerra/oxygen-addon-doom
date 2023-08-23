@@ -1,19 +1,16 @@
 package com.oxygenxml.addon.doom.workspace;
 
 import java.awt.Component;
-import java.io.File;
 import java.io.IOException;
 
 import javax.swing.JPanel;
 
-import org.apache.http.conn.ssl.BrowserCompatHostnameVerifier;
 import org.cef.CefApp;
 import org.cef.CefClient;
 import org.cef.CefSettings;
 import org.cef.browser.CefBrowser;
 import org.cef.browser.CefMessageRouter;
 
-import me.friwi.jcefmaven.CefAppBuilder;
 import me.friwi.jcefmaven.CefInitializationException;
 import me.friwi.jcefmaven.UnsupportedPlatformException;
 
@@ -45,10 +42,10 @@ public class JCEFBrowserPanel extends JPanel {
 
 		CefApp.startup();
 		cefApp_ = CefApp.getInstance();
-		
-		settings=new CefSettings();
-		settings.persist_session_cookies=true;
-		settings.windowless_rendering_enabled=false;
+
+		settings = new CefSettings();
+		settings.persist_session_cookies = true;
+		settings.windowless_rendering_enabled = false;
 		cefApp_.setSettings(settings);
 
 		client_ = cefApp_.createClient();

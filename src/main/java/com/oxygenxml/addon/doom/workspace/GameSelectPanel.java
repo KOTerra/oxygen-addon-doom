@@ -29,7 +29,7 @@ public class GameSelectPanel extends JPanel {
 			throws IOException, UnsupportedPlatformException, InterruptedException, CefInitializationException {
 		setLayout(new BorderLayout());
 
-		jcef = new JCEFBrowserPanel("https://koterra.github.io/oxygen-addon-doom/");
+		jcef = new JCEFBrowserPanel(GameUrls.LANDING_URL);
 		add(jcef.getBrowserUI_(), BorderLayout.CENTER);
 
 		JComboBox<String> comboBox = new JComboBox<>();
@@ -41,6 +41,10 @@ public class GameSelectPanel extends JPanel {
 		comboBox.addItem(GameUrls.DOOM);
 		comboBox.addItem(GameUrls.MORTAL_KOMBAT);
 		comboBox.addItem(GameUrls.GTA);
+		comboBox.addItem(GameUrls.PRINCE_OF_PERSIA);
+		comboBox.addItem(GameUrls.NEED_FOR_SPEED);
+		comboBox.addItem(GameUrls.SIM_CITY);
+		comboBox.addItem(GameUrls.LANDING_PAGE);
 		comboBox.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
